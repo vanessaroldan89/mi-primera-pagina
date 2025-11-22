@@ -19,7 +19,7 @@ En este primer ejercicio recreé el movimiento de la tortuga usando únicamente 
 
 ### Ejemplo de salida del programa
 
-```
+```python
 === Reto 1: Simulador de tortuga 🐢 ===
 ¿Cuántos pasos debe avanzar la tortuga? 8
 La tortuga avanzó 8 pasos.
