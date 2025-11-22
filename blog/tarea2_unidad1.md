@@ -280,7 +280,7 @@ En este último reto hice que la tortuga bajara una escalera usando solo texto. 
 
 ### Ejemplo de salida del programa
 
-```
+```python
 --- Dibujando Escalera de 3 escalones ---
 
 # Escalón 1
