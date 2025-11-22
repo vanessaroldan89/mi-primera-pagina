@@ -53,7 +53,7 @@ reto2()
 En este ejercicio simulé que la tortuga baja en línea recta. Primero muestro la tortuga en la parte superior y luego imprimo una flecha hacia abajo por cada paso que el usuario indique. Todo se hace usando texto y ciclos, sin gráficos.
 
 ### Ejemplo de salida del programa
-```
+```python
 === Reto 2: tortuga hacia abajo ===
 ¿Cuántos pasos quieres que baje la tortuga? 45
 
@@ -143,7 +143,7 @@ reto3()
 En este ejercicio la idea es que la tortuga haga una “L” usando solo texto. Primero uso input() para preguntarle al usuario cuántos pasos debe avanzar hacia la derecha y cuántos debe bajar. Luego, con print(), voy mostrando las flechas que forman la figura: una línea horizontal y después las flechas hacia abajo. Básicamente es imaginar el camino de la tortuga, pero usando solo lo que escribimos en pantalla.
 
 ### Ejemplo de salida del programa
-```
+```python
 === Reto 3: girar y dibujar una L ===
 ¿Cuántos pasos avanza la tortuga a la derecha? 6
 ¿Cuántos pasos baja la tortuga después de girar? 9
@@ -193,7 +193,7 @@ abajo(5)
 Aquí ya no uso `input()`, sino que creo funciones que hacen el trabajo por mí. `adelante(n)` imprime la tortuga moviéndose hacia la derecha y va guardando la posición para que después `abajo(n)` pueda bajar justo debajo. Al final, con estas funciones dibujo una pequeña “L” usando solo texto.
 
 ### Ejemplo de salida del programa
-```
+```python
 --- Patrón en L ---
 →→→→→→→→
 ↓
