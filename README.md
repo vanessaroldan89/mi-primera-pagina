@@ -44,3 +44,5 @@ Me llamó mucho la atención comprender cómo el hardware y el software se compl
 También me pareció muy interesante conocer sobre los lenguajes de programación, ya que son una forma de comunicarnos con las máquinas. Aunque todavía me parecen un reto, me emociona la idea de que con el tiempo pueda crear mis propios programas o aplicaciones. Entender lo que son las variables, las estructuras de datos y los pasos lógicos que siguen los programas me hizo ver la programación como una herramienta poderosa para resolver problemas y para desarrollar la creatividad.
 En general, estos temas me ayudaron a abrir la mente y a mirar la tecnología desde otra perspectiva. Antes solo veía un computador como una herramienta para estudiar o entretenerme, pero ahora lo veo como un sistema complejo que combina ciencia, lógica y diseño. Sé que todavía tengo mucho por aprender, pero me siento motivada a seguir explorando este campo porque cada nuevo conocimiento me acerca más al mundo digital del que hoy todos hacemos parte.
 
+#Últimas Entradas
+[Implementando la libreria turtle desde cero](./tarea2/tarea2_unidad1.md)
