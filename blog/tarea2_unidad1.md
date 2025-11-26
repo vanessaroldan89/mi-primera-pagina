@@ -110,7 +110,7 @@ La tortuga bajó 45 pasos.
 ```
 
 ## Reto 3
-###Enunciado
+### Enunciado
 Ahora la tortuga no solo avanza: también gira.
 
 ### Mi solución
