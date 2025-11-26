@@ -45,4 +45,4 @@ También me pareció muy interesante conocer sobre los lenguajes de programació
 En general, estos temas me ayudaron a abrir la mente y a mirar la tecnología desde otra perspectiva. Antes solo veía un computador como una herramienta para estudiar o entretenerme, pero ahora lo veo como un sistema complejo que combina ciencia, lógica y diseño. Sé que todavía tengo mucho por aprender, pero me siento motivada a seguir explorando este campo porque cada nuevo conocimiento me acerca más al mundo digital del que hoy todos hacemos parte.
 
 #Últimas Entradas
-[Implementando la libreria turtle desde cero](./tarea2/tarea2_unidad1.md)
+[Implementando la libreria turtle desde cero](blog/tarea2_unidad1.md)
