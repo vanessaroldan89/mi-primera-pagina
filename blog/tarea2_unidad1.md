@@ -28,7 +28,7 @@ Simulación del movimiento:
 ```
 
 ## Reto 2
-###Crea el rastro de una tortuga moviéndose hacia abajo usando únicamente print() e input().
+### Crea el rastro de una tortuga moviéndose hacia abajo usando únicamente print() e input().
 La salida esperada es similar a:
 
 tortuga bajando
@@ -165,7 +165,7 @@ Movimiento hacia abajo:
 La tortuga dibujó una L con los pasos indicados.
 ```
 ## Reto 4
-###Enunciado
+### Enunciado
 Reescribe los retos anteriores creando funciones que representen los movimientos de la tortuga solo con texto.
 ### Mi solución en Python
 ```python
@@ -204,7 +204,7 @@ Aquí ya no uso `input()`, sino que creo funciones que hacen el trabajo por mí.
 ```
 
 ## Reto 5
-###Enunciado
+### Enunciado
 Ajusta tus funciones para que la tortuga pueda bajar escalones.
 Cada escalón debe conservar la posición horizontal acumulada y dibujar correctamente tanto el tramo horizontal como el vertical.
 ### Mi solución
